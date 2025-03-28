@@ -1,0 +1,6 @@
+com/fes/movienight/MovienightApplication.class
+com/fes/movienight/controllers/PostController.class
+com/fes/movienight/repos/SearchRepoImp.class
+com/fes/movienight/repos/SearchRepository.class
+com/fes/movienight/repos/PostRepository.class
+com/fes/movienight/models/PostModel.class
